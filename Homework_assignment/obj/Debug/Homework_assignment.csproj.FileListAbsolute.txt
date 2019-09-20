@@ -11,3 +11,10 @@ C:\Users\opilane\Desktop\Homework_assignment_1\Homework_assignment\bin\Debug\Hom
 C:\Users\opilane\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.exe
 C:\Users\opilane\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.pdb
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.exe
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.pdb
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\bin\Debug\Homework_assignment.exe.config
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\bin\Debug\Homework_assignment.exe
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\bin\Debug\Homework_assignment.pdb
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\Homework_assignment_1\Homework_assignment\obj\Debug\Homework_assignment.csproj.CoreCompileInputs.cache
