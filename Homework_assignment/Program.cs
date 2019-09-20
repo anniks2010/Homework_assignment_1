@@ -13,7 +13,7 @@ namespace Homework_assignment
             string name;
             int age;
             float pikkus;
-            int kaal;
+            float kaal;
             float kehaMass;
             
             Console.WriteLine("What is your name?");
@@ -37,7 +37,7 @@ namespace Homework_assignment
                 Console.WriteLine("How tall are you in meters?");
                 pikkus = float.Parse(Console.ReadLine());
                 Console.WriteLine("What is your weight (kg)?");
-                kaal = int.Parse(Console.ReadLine());
+                kaal = float.Parse(Console.ReadLine());
                 kehaMass = (float)(Math.Round((double)(kaal / (pikkus * pikkus)), 2));
 
                 if (kehaMass < 16) 
